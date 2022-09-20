@@ -1,0 +1,593 @@
+Language;Language dummy;Country of origin;Country of destination;Alpha-2 code (origin);Alpha-3 code (origin);Alpha-2 code (destination);Alpha-3 code (destination)
+English;1;United Kingdom;United Kingdom;GB;GBR;GB;GBR
+English;1;United Kingdom;United States;GB;GBR;US;USA
+English;1;United Kingdom;Nigeria;GB;GBR;NG;NGA
+English;1;United Kingdom;Canada;GB;GBR;CA;CAN
+English;1;United Kingdom;Australia;GB;GBR;AU;AUS
+English;1;United Kingdom;New Zealand;GB;GBR;NZ;NZL
+English;1;United Kingdom;Ireland;GB;GBR;IE;IRL
+English;1;United Kingdom;India;GB;GBR;IN;IND
+English;1;United Kingdom;South Africa;GB;GBR;ZA;ZAF
+English;1;United States;United Kingdom;US;USA;GB;GBR
+English;1;United States;United States;US;USA;US;USA
+English;1;United States;Nigeria;US;USA;NG;NGA
+English;1;United States;Canada;US;USA;CA;CAN
+English;1;United States;Australia;US;USA;AU;AUS
+English;1;United States;New Zealand;US;USA;NZ;NZL
+English;1;United States;Ireland;US;USA;IE;IRL
+English;1;United States;India;US;USA;IN;IND
+English;1;United States;South Africa;US;USA;ZA;ZAF
+English;1;Nigeria;United Kingdom;NG;NGA;GB;GBR
+English;1;Nigeria;United States;NG;NGA;US;USA
+English;1;Nigeria;Nigeria;NG;NGA;NG;NGA
+English;1;Nigeria;Canada;NG;NGA;CA;CAN
+English;1;Nigeria;Australia;NG;NGA;AU;AUS
+English;1;Nigeria;New Zealand;NG;NGA;NZ;NZL
+English;1;Nigeria;Ireland;NG;NGA;IE;IRL
+English;1;Nigeria;India;NG;NGA;IN;IND
+English;1;Nigeria;South Africa;NG;NGA;ZA;ZAF
+English;1;Canada;United Kingdom;CA;CAN;GB;GBR
+English;1;Canada;United States;CA;CAN;US;USA
+English;1;Canada;Nigeria;CA;CAN;NG;NGA
+English;1;Canada;Canada;CA;CAN;CA;CAN
+English;1;Canada;Australia;CA;CAN;AU;AUS
+English;1;Canada;New Zealand;CA;CAN;NZ;NZL
+English;1;Canada;Ireland;CA;CAN;IE;IRL
+English;1;Canada;India;CA;CAN;IN;IND
+English;1;Canada;South Africa;CA;CAN;ZA;ZAF
+English;1;Australia;United Kingdom;AU;AUS;GB;GBR
+English;1;Australia;United States;AU;AUS;US;USA
+English;1;Australia;Nigeria;AU;AUS;NG;NGA
+English;1;Australia;Canada;AU;AUS;CA;CAN
+English;1;Australia;Australia;AU;AUS;AU;AUS
+English;1;Australia;New Zealand;AU;AUS;NZ;NZL
+English;1;Australia;Ireland;AU;AUS;IE;IRL
+English;1;Australia;India;AU;AUS;IN;IND
+English;1;Australia;South Africa;AU;AUS;ZA;ZAF
+English;1;New Zealand;United Kingdom;NZ;NZL;GB;GBR
+English;1;New Zealand;United States;NZ;NZL;US;USA
+English;1;New Zealand;Nigeria;NZ;NZL;NG;NGA
+English;1;New Zealand;Canada;NZ;NZL;CA;CAN
+English;1;New Zealand;Australia;NZ;NZL;AU;AUS
+English;1;New Zealand;New Zealand;NZ;NZL;NZ;NZL
+English;1;New Zealand;Ireland;NZ;NZL;IE;IRL
+English;1;New Zealand;India;NZ;NZL;IN;IND
+English;1;New Zealand;South Africa;NZ;NZL;ZA;ZAF
+English;1;Ireland;United Kingdom;IE;IRL;GB;GBR
+English;1;Ireland;United States;IE;IRL;US;USA
+English;1;Ireland;Nigeria;IE;IRL;NG;NGA
+English;1;Ireland;Canada;IE;IRL;CA;CAN
+English;1;Ireland;Australia;IE;IRL;AU;AUS
+English;1;Ireland;New Zealand;IE;IRL;NZ;NZL
+English;1;Ireland;Ireland;IE;IRL;IE;IRL
+English;1;Ireland;India;IE;IRL;IN;IND
+English;1;Ireland;South Africa;IE;IRL;ZA;ZAF
+English;1;India;United Kingdom;IN;IND;GB;GBR
+English;1;India;United States;IN;IND;US;USA
+English;1;India;Nigeria;IN;IND;NG;NGA
+English;1;India;Canada;IN;IND;CA;CAN
+English;1;India;Australia;IN;IND;AU;AUS
+English;1;India;New Zealand;IN;IND;NZ;NZL
+English;1;India;Ireland;IN;IND;IE;IRL
+English;1;India;India;IN;IND;IN;IND
+English;1;India;South Africa;IN;IND;ZA;ZAF
+English;1;South Africa;United Kingdom;ZA;ZAF;GB;GBR
+English;1;South Africa;United States;ZA;ZAF;US;USA
+English;1;South Africa;Nigeria;ZA;ZAF;NG;NGA
+English;1;South Africa;Canada;ZA;ZAF;CA;CAN
+English;1;South Africa;Australia;ZA;ZAF;AU;AUS
+English;1;South Africa;New Zealand;ZA;ZAF;NZ;NZL
+English;1;South Africa;Ireland;ZA;ZAF;IE;IRL
+English;1;South Africa;India;ZA;ZAF;IN;IND
+English;1;South Africa;South Africa;ZA;ZAF;ZA;ZAF
+French;1;France;France;FR;FRA;FR;FRA
+French;1;France;Canada;FR;FRA;CA;CAN
+French;1;France;Belgium;FR;FRA;BE;BEL
+French;1;France;Switzerland;FR;FRA;CH;CHE
+French;1;France;Madagascar;FR;FRA;MG;MDG
+French;1;France;Monaco;FR;FRA;MC;MCO
+French;1;France;Haiti;FR;FRA;HT;HTI
+French;1;France;Vanuatu;FR;FRA;VU;VUT
+French;1;Canada;France;CA;CAN;FR;FRA
+French;1;Canada;Canada;CA;CAN;CA;CAN
+French;1;Canada;Belgium;CA;CAN;BE;BEL
+French;1;Canada;Switzerland;CA;CAN;CH;CHE
+French;1;Canada;Madagascar;CA;CAN;MG;MDG
+French;1;Canada;Monaco;CA;CAN;MC;MCO
+French;1;Canada;Haiti;CA;CAN;HT;HTI
+French;1;Canada;Vanuatu;CA;CAN;VU;VUT
+French;1;Belgium;France;BE;BEL;FR;FRA
+French;1;Belgium;Canada;BE;BEL;CA;CAN
+French;1;Belgium;Belgium;BE;BEL;BE;BEL
+French;1;Belgium;Switzerland;BE;BEL;CH;CHE
+French;1;Belgium;Madagascar;BE;BEL;MG;MDG
+French;1;Belgium;Monaco;BE;BEL;MC;MCO
+French;1;Belgium;Haiti;BE;BEL;HT;HTI
+French;1;Belgium;Vanuatu;BE;BEL;VU;VUT
+French;1;Switzerland;France;CH;CHE;FR;FRA
+French;1;Switzerland;Canada;CH;CHE;CA;CAN
+French;1;Switzerland;Belgium;CH;CHE;BE;BEL
+French;1;Switzerland;Switzerland;CH;CHE;CH;CHE
+French;1;Switzerland;Madagascar;CH;CHE;MG;MDG
+French;1;Switzerland;Monaco;CH;CHE;MC;MCO
+French;1;Switzerland;Haiti;CH;CHE;HT;HTI
+French;1;Switzerland;Vanuatu;CH;CHE;VU;VUT
+French;1;Madagascar;France;MG;MDG;FR;FRA
+French;1;Madagascar;Canada;MG;MDG;CA;CAN
+French;1;Madagascar;Belgium;MG;MDG;BE;BEL
+French;1;Madagascar;Switzerland;MG;MDG;CH;CHE
+French;1;Madagascar;Madagascar;MG;MDG;MG;MDG
+French;1;Madagascar;Monaco;MG;MDG;MC;MCO
+French;1;Madagascar;Haiti;MG;MDG;HT;HTI
+French;1;Madagascar;Vanuatu;MG;MDG;VU;VUT
+French;1;Monaco;France;MC;MCO;FR;FRA
+French;1;Monaco;Canada;MC;MCO;CA;CAN
+French;1;Monaco;Belgium;MC;MCO;BE;BEL
+French;1;Monaco;Switzerland;MC;MCO;CH;CHE
+French;1;Monaco;Madagascar;MC;MCO;MG;MDG
+French;1;Monaco;Monaco;MC;MCO;MC;MCO
+French;1;Monaco;Haiti;MC;MCO;HT;HTI
+French;1;Monaco;Vanuatu;MC;MCO;VU;VUT
+French;1;Haiti;France;HT;HTI;FR;FRA
+French;1;Haiti;Canada;HT;HTI;CA;CAN
+French;1;Haiti;Belgium;HT;HTI;BE;BEL
+French;1;Haiti;Switzerland;HT;HTI;CH;CHE
+French;1;Haiti;Madagascar;HT;HTI;MG;MDG
+French;1;Haiti;Monaco;HT;HTI;MC;MCO
+French;1;Haiti;Haiti;HT;HTI;HT;HTI
+French;1;Haiti;Vanuatu;HT;HTI;VU;VUT
+French;1;Vanuatu;France;VU;VUT;FR;FRA
+French;1;Vanuatu;Canada;VU;VUT;CA;CAN
+French;1;Vanuatu;Belgium;VU;VUT;BE;BEL
+French;1;Vanuatu;Switzerland;VU;VUT;CH;CHE
+French;1;Vanuatu;Madagascar;VU;VUT;MG;MDG
+French;1;Vanuatu;Monaco;VU;VUT;MC;MCO
+French;1;Vanuatu;Haiti;VU;VUT;HT;HTI
+French;1;Vanuatu;Vanuatu;VU;VUT;VU;VUT
+Arabic;1;Egypt;Egypt;EG;EGY;EG;EGY
+Arabic;1;Egypt;Sudan;EG;EGY;SD;SDN
+Arabic;1;Egypt;Algeria;EG;EGY;DZ;DZA
+Arabic;1;Egypt;Iraq;EG;EGY;IQ;IRQ
+Arabic;1;Egypt;Morocco;EG;EGY;MA;MAR
+Arabic;1;Egypt;Saudi Arabia;EG;EGY;SA;SAU
+Arabic;1;Egypt;United Arab Emirates;EG;EGY;AE;ARE
+Arabic;1;Egypt;Palestine;EG;EGY;PS;PSE
+Arabic;1;Sudan;Egypt;SD;SDN;EG;EGY
+Arabic;1;Sudan;Sudan;SD;SDN;SD;SDN
+Arabic;1;Sudan;Algeria;SD;SDN;DZ;DZA
+Arabic;1;Sudan;Iraq;SD;SDN;IQ;IRQ
+Arabic;1;Sudan;Morocco;SD;SDN;MA;MAR
+Arabic;1;Sudan;Saudi Arabia;SD;SDN;SA;SAU
+Arabic;1;Sudan;United Arab Emirates;SD;SDN;AE;ARE
+Arabic;1;Sudan;Palestine;SD;SDN;PS;PSE
+Arabic;1;Algeria;Egypt;DZ;DZA;EG;EGY
+Arabic;1;Algeria;Sudan;DZ;DZA;SD;SDN
+Arabic;1;Algeria;Algeria;DZ;DZA;DZ;DZA
+Arabic;1;Algeria;Iraq;DZ;DZA;IQ;IRQ
+Arabic;1;Algeria;Morocco;DZ;DZA;MA;MAR
+Arabic;1;Algeria;Saudi Arabia;DZ;DZA;SA;SAU
+Arabic;1;Algeria;United Arab Emirates;DZ;DZA;AE;ARE
+Arabic;1;Algeria;Palestine;DZ;DZA;PS;PSE
+Arabic;1;Iraq;Egypt;IQ;IRQ;EG;EGY
+Arabic;1;Iraq;Sudan;IQ;IRQ;SD;SDN
+Arabic;1;Iraq;Algeria;IQ;IRQ;DZ;DZA
+Arabic;1;Iraq;Iraq;IQ;IRQ;IQ;IRQ
+Arabic;1;Iraq;Morocco;IQ;IRQ;MA;MAR
+Arabic;1;Iraq;Saudi Arabia;IQ;IRQ;SA;SAU
+Arabic;1;Iraq;United Arab Emirates;IQ;IRQ;AE;ARE
+Arabic;1;Iraq;Palestine;IQ;IRQ;PS;PSE
+Arabic;1;Morocco;Egypt;MA;MAR;EG;EGY
+Arabic;1;Morocco;Sudan;MA;MAR;SD;SDN
+Arabic;1;Morocco;Algeria;MA;MAR;DZ;DZA
+Arabic;1;Morocco;Iraq;MA;MAR;IQ;IRQ
+Arabic;1;Morocco;Morocco;MA;MAR;MA;MAR
+Arabic;1;Morocco;Saudi Arabia;MA;MAR;SA;SAU
+Arabic;1;Morocco;United Arab Emirates;MA;MAR;AE;ARE
+Arabic;1;Morocco;Palestine;MA;MAR;PS;PSE
+Arabic;1;Saudi Arabia;Egypt;SA;SAU;EG;EGY
+Arabic;1;Saudi Arabia;Sudan;SA;SAU;SD;SDN
+Arabic;1;Saudi Arabia;Algeria;SA;SAU;DZ;DZA
+Arabic;1;Saudi Arabia;Iraq;SA;SAU;IQ;IRQ
+Arabic;1;Saudi Arabia;Morocco;SA;SAU;MA;MAR
+Arabic;1;Saudi Arabia;Saudi Arabia;SA;SAU;SA;SAU
+Arabic;1;Saudi Arabia;United Arab Emirates;SA;SAU;AE;ARE
+Arabic;1;Saudi Arabia;Palestine;SA;SAU;PS;PSE
+Arabic;1;United Arab Emirates;Egypt;AE;ARE;EG;EGY
+Arabic;1;United Arab Emirates;Sudan;AE;ARE;SD;SDN
+Arabic;1;United Arab Emirates;Algeria;AE;ARE;DZ;DZA
+Arabic;1;United Arab Emirates;Iraq;AE;ARE;IQ;IRQ
+Arabic;1;United Arab Emirates;Morocco;AE;ARE;MA;MAR
+Arabic;1;United Arab Emirates;Saudi Arabia;AE;ARE;SA;SAU
+Arabic;1;United Arab Emirates;United Arab Emirates;AE;ARE;AE;ARE
+Arabic;1;United Arab Emirates;Palestine;AE;ARE;PS;PSE
+Arabic;1;Palestine;Egypt;PS;PSE;EG;EGY
+Arabic;1;Palestine;Sudan;PS;PSE;SD;SDN
+Arabic;1;Palestine;Algeria;PS;PSE;DZ;DZA
+Arabic;1;Palestine;Iraq;PS;PSE;IQ;IRQ
+Arabic;1;Palestine;Morocco;PS;PSE;MA;MAR
+Arabic;1;Palestine;Saudi Arabia;PS;PSE;SA;SAU
+Arabic;1;Palestine;United Arab Emirates;PS;PSE;AE;ARE
+Arabic;1;Palestine;Palestine;PS;PSE;PS;PSE
+Spanish;1;Spain;Spain;ES;ESP;ES;ESP
+Spanish;1;Spain;Mexico;ES;ESP;MX;MEX
+Spanish;1;Spain;Colombia;ES;ESP;CO;COL
+Spanish;1;Spain;Argentina;ES;ESP;AR;ARG
+Spanish;1;Spain;Equatorial Guinea;ES;ESP;GQ;GNQ
+Spanish;1;Mexico;Spain;MX;MEX;ES;ESP
+Spanish;1;Mexico;Mexico;MX;MEX;MX;MEX
+Spanish;1;Mexico;Colombia;MX;MEX;CO;COL
+Spanish;1;Mexico;Argentina;MX;MEX;AR;ARG
+Spanish;1;Mexico;Equatorial Guinea;MX;MEX;GQ;GNQ
+Spanish;1;Colombia;Spain;CO;COL;ES;ESP
+Spanish;1;Colombia;Mexico;CO;COL;MX;MEX
+Spanish;1;Colombia;Colombia;CO;COL;CO;COL
+Spanish;1;Colombia;Argentina;CO;COL;AR;ARG
+Spanish;1;Colombia;Equatorial Guinea;CO;COL;GQ;GNQ
+Spanish;1;Argentina;Spain;AR;ARG;ES;ESP
+Spanish;1;Argentina;Mexico;AR;ARG;MX;MEX
+Spanish;1;Argentina;Colombia;AR;ARG;CO;COL
+Spanish;1;Argentina;Argentina;AR;ARG;AR;ARG
+Spanish;1;Argentina;Equatorial Guinea;AR;ARG;GQ;GNQ
+Spanish;1;Equatorial Guinea;Spain;GQ;GNQ;ES;ESP
+Spanish;1;Equatorial Guinea;Mexico;GQ;GNQ;MX;MEX
+Spanish;1;Equatorial Guinea;Colombia;GQ;GNQ;CO;COL
+Spanish;1;Equatorial Guinea;Argentina;GQ;GNQ;AR;ARG
+Spanish;1;Equatorial Guinea;Equatorial Guinea;GQ;GNQ;GQ;GNQ
+Portuguese;1;Portugal;Portugal;PT;PRT;PT;PRT
+Portuguese;1;Portugal;Brazil;PT;PRT;BR;BRA
+Portuguese;1;Portugal;Mozambique;PT;PRT;MZ;MOZ
+Portuguese;1;Portugal;Angola;PT;PRT;AO;AGO
+Portuguese;1;Portugal;East Timor;PT;PRT;TL;TLS
+Portuguese;1;Portugal;Macau;PT;PRT;MO;MAC
+Portuguese;1;Brazil;Portugal;BR;BRA;PT;PRT
+Portuguese;1;Brazil;Brazil;BR;BRA;BR;BRA
+Portuguese;1;Brazil;Mozambique;BR;BRA;MZ;MOZ
+Portuguese;1;Brazil;Angola;BR;BRA;AO;AGO
+Portuguese;1;Brazil;East Timor;BR;BRA;TL;TLS
+Portuguese;1;Brazil;Macau;BR;BRA;MO;MAC
+Portuguese;1;Mozambique;Portugal;MZ;MOZ;PT;PRT
+Portuguese;1;Mozambique;Brazil;MZ;MOZ;BR;BRA
+Portuguese;1;Mozambique;Mozambique;MZ;MOZ;MZ;MOZ
+Portuguese;1;Mozambique;Angola;MZ;MOZ;AO;AGO
+Portuguese;1;Mozambique;East Timor;MZ;MOZ;TL;TLS
+Portuguese;1;Mozambique;Macau;MZ;MOZ;MO;MAC
+Portuguese;1;Angola;Portugal;AO;AGO;PT;PRT
+Portuguese;1;Angola;Brazil;AO;AGO;BR;BRA
+Portuguese;1;Angola;Mozambique;AO;AGO;MZ;MOZ
+Portuguese;1;Angola;Angola;AO;AGO;AO;AGO
+Portuguese;1;Angola;East Timor;AO;AGO;TL;TLS
+Portuguese;1;Angola;Macau;AO;AGO;MO;MAC
+Portuguese;1;East Timor;Portugal;TL;TLS;PT;PRT
+Portuguese;1;East Timor;Brazil;TL;TLS;BR;BRA
+Portuguese;1;East Timor;Mozambique;TL;TLS;MZ;MOZ
+Portuguese;1;East Timor;Angola;TL;TLS;AO;AGO
+Portuguese;1;East Timor;East Timor;TL;TLS;TL;TLS
+Portuguese;1;East Timor;Macau;TL;TLS;MO;MAC
+Portuguese;1;Macau;Portugal;MO;MAC;PT;PRT
+Portuguese;1;Macau;Brazil;MO;MAC;BR;BRA
+Portuguese;1;Macau;Mozambique;MO;MAC;MZ;MOZ
+Portuguese;1;Macau;Angola;MO;MAC;AO;AGO
+Portuguese;1;Macau;East Timor;MO;MAC;TL;TLS
+Portuguese;1;Macau;Macau;MO;MAC;MO;MAC
+German;1;Germany;Germany;DE;DEU;DE;DEU
+German;1;Germany;Austria;DE;DEU;AT;AUT
+German;1;Germany;Switzerland;DE;DEU;CH;CHE
+German;1;Germany;Belgium;DE;DEU;BE;BEL
+German;1;Germany;Luxembourg;DE;DEU;LU;LUX
+German;1;Germany;Liechtenstein;DE;DEU;LI;LIE
+German;1;Austria;Germany;AT;AUT;DE;DEU
+German;1;Austria;Austria;AT;AUT;AT;AUT
+German;1;Austria;Switzerland;AT;AUT;CH;CHE
+German;1;Austria;Belgium;AT;AUT;BE;BEL
+German;1;Austria;Luxembourg;AT;AUT;LU;LUX
+German;1;Austria;Liechtenstein;AT;AUT;LI;LIE
+German;1;Switzerland;Germany;CH;CHE;DE;DEU
+German;1;Switzerland;Austria;CH;CHE;AT;AUT
+German;1;Switzerland;Switzerland;CH;CHE;CH;CHE
+German;1;Switzerland;Belgium;CH;CHE;BE;BEL
+German;1;Switzerland;Luxembourg;CH;CHE;LU;LUX
+German;1;Switzerland;Liechtenstein;CH;CHE;LI;LIE
+German;1;Belgium;Germany;BE;BEL;DE;DEU
+German;1;Belgium;Austria;BE;BEL;AT;AUT
+German;1;Belgium;Switzerland;BE;BEL;CH;CHE
+German;1;Belgium;Belgium;BE;BEL;BE;BEL
+German;1;Belgium;Luxembourg;BE;BEL;LU;LUX
+German;1;Belgium;Liechtenstein;BE;BEL;LI;LIE
+German;1;Luxembourg;Germany;LU;LUX;DE;DEU
+German;1;Luxembourg;Austria;LU;LUX;AT;AUT
+German;1;Luxembourg;Switzerland;LU;LUX;CH;CHE
+German;1;Luxembourg;Belgium;LU;LUX;BE;BEL
+German;1;Luxembourg;Luxembourg;LU;LUX;LU;LUX
+German;1;Luxembourg;Liechtenstein;LU;LUX;LI;LIE
+German;1;Liechtenstein;Germany;LI;LIE;DE;DEU
+German;1;Liechtenstein;Austria;LI;LIE;AT;AUT
+German;1;Liechtenstein;Switzerland;LI;LIE;CH;CHE
+German;1;Liechtenstein;Belgium;LI;LIE;BE;BEL
+German;1;Liechtenstein;Luxembourg;LI;LIE;LU;LUX
+German;1;Liechtenstein;Liechtenstein;LI;LIE;LI;LIE
+Russian;1;Russia;Russia;RU;RUS;RU;RUS
+Russian;1;Russia;Kazakhstan;RU;RUS;KZ;KAZ
+Russian;1;Russia;Belarus;RU;RUS;BY;BLR
+Russian;1;Russia;Kyrgyzstan;RU;RUS;KG;KGZ
+Russian;1;Russia;Tajikistan;RU;RUS;TJ;TJK
+Russian;1;Russia;Abkhazia;RU;RUS;0;0
+Russian;1;Russia;South Ossetia;RU;RUS;0;0
+Russian;1;Russia;Transnistria;RU;RUS;MD;MDA
+Russian;1;Kazakhstan;Russia;KZ;KAZ;RU;RUS
+Russian;1;Kazakhstan;Kazakhstan;KZ;KAZ;KZ;KAZ
+Russian;1;Kazakhstan;Belarus;KZ;KAZ;BY;BLR
+Russian;1;Kazakhstan;Kyrgyzstan;KZ;KAZ;KG;KGZ
+Russian;1;Kazakhstan;Tajikistan;KZ;KAZ;TJ;TJK
+Russian;1;Kazakhstan;Abkhazia;KZ;KAZ;0;0
+Russian;1;Kazakhstan;South Ossetia;KZ;KAZ;0;0
+Russian;1;Kazakhstan;Transnistria;KZ;KAZ;MD;MDA
+Russian;1;Belarus;Russia;BY;BLR;RU;RUS
+Russian;1;Belarus;Kazakhstan;BY;BLR;KZ;KAZ
+Russian;1;Belarus;Belarus;BY;BLR;BY;BLR
+Russian;1;Belarus;Kyrgyzstan;BY;BLR;KG;KGZ
+Russian;1;Belarus;Tajikistan;BY;BLR;TJ;TJK
+Russian;1;Belarus;Abkhazia;BY;BLR;0;0
+Russian;1;Belarus;South Ossetia;BY;BLR;0;0
+Russian;1;Belarus;Transnistria;BY;BLR;MD;MDA
+Russian;1;Kyrgyzstan;Russia;KG;KGZ;RU;RUS
+Russian;1;Kyrgyzstan;Kazakhstan;KG;KGZ;KZ;KAZ
+Russian;1;Kyrgyzstan;Belarus;KG;KGZ;BY;BLR
+Russian;1;Kyrgyzstan;Kyrgyzstan;KG;KGZ;KG;KGZ
+Russian;1;Kyrgyzstan;Tajikistan;KG;KGZ;TJ;TJK
+Russian;1;Kyrgyzstan;Abkhazia;KG;KGZ;0;0
+Russian;1;Kyrgyzstan;South Ossetia;KG;KGZ;0;0
+Russian;1;Kyrgyzstan;Transnistria;KG;KGZ;MD;MDA
+Russian;1;Tajikistan;Russia;TJ;TJK;RU;RUS
+Russian;1;Tajikistan;Kazakhstan;TJ;TJK;KZ;KAZ
+Russian;1;Tajikistan;Belarus;TJ;TJK;BY;BLR
+Russian;1;Tajikistan;Kyrgyzstan;TJ;TJK;KG;KGZ
+Russian;1;Tajikistan;Tajikistan;TJ;TJK;TJ;TJK
+Russian;1;Tajikistan;Abkhazia;TJ;TJK;0;0
+Russian;1;Tajikistan;South Ossetia;TJ;TJK;0;0
+Russian;1;Tajikistan;Transnistria;TJ;TJK;MD;MDA
+Russian;1;Abkhazia;Russia;0;0;RU;RUS
+Russian;1;Abkhazia;Kazakhstan;0;0;KZ;KAZ
+Russian;1;Abkhazia;Belarus;0;0;BY;BLR
+Russian;1;Abkhazia;Kyrgyzstan;0;0;KG;KGZ
+Russian;1;Abkhazia;Tajikistan;0;0;TJ;TJK
+Russian;1;Abkhazia;Abkhazia;0;0;0;0
+Russian;1;Abkhazia;South Ossetia;0;0;0;0
+Russian;1;Abkhazia;Transnistria;0;0;MD;MDA
+Russian;1;South Ossetia;Russia;0;0;RU;RUS
+Russian;1;South Ossetia;Kazakhstan;0;0;KZ;KAZ
+Russian;1;South Ossetia;Belarus;0;0;BY;BLR
+Russian;1;South Ossetia;Kyrgyzstan;0;0;KG;KGZ
+Russian;1;South Ossetia;Tajikistan;0;0;TJ;TJK
+Russian;1;South Ossetia;Abkhazia;0;0;0;0
+Russian;1;South Ossetia;South Ossetia;0;0;0;0
+Russian;1;South Ossetia;Transnistria;0;0;MD;MDA
+Russian;1;Transnistria;Russia;MD;MDA;RU;RUS
+Russian;1;Transnistria;Kazakhstan;MD;MDA;KZ;KAZ
+Russian;1;Transnistria;Belarus;MD;MDA;BY;BLR
+Russian;1;Transnistria;Kyrgyzstan;MD;MDA;KG;KGZ
+Russian;1;Transnistria;Tajikistan;MD;MDA;TJ;TJK
+Russian;1;Transnistria;Abkhazia;MD;MDA;0;0
+Russian;1;Transnistria;South Ossetia;MD;MDA;0;0
+Russian;1;Transnistria;Transnistria;MD;MDA;MD;MDA
+Swahili;1;Democratic Republic of the Congo;Democratic Republic of the Congo;CD;COD;CD;COD
+Swahili;1;Democratic Republic of the Congo;Kenya;CD;COD;KE;KEN
+Swahili;1;Democratic Republic of the Congo;Rwanda;CD;COD;RW;RWA
+Swahili;1;Democratic Republic of the Congo;Tanzania;CD;COD;TZ;TZA
+Swahili;1;Democratic Republic of the Congo;Uganda;CD;COD;UG;UGA
+Swahili;1;Kenya;Democratic Republic of the Congo;KE;KEN;CD;COD
+Swahili;1;Kenya;Kenya;KE;KEN;KE;KEN
+Swahili;1;Kenya;Rwanda;KE;KEN;RW;RWA
+Swahili;1;Kenya;Tanzania;KE;KEN;TZ;TZA
+Swahili;1;Kenya;Uganda;KE;KEN;UG;UGA
+Swahili;1;Rwanda;Democratic Republic of the Congo;RW;RWA;CD;COD
+Swahili;1;Rwanda;Kenya;RW;RWA;KE;KEN
+Swahili;1;Rwanda;Rwanda;RW;RWA;RW;RWA
+Swahili;1;Rwanda;Tanzania;RW;RWA;TZ;TZA
+Swahili;1;Rwanda;Uganda;RW;RWA;UG;UGA
+Swahili;1;Tanzania;Democratic Republic of the Congo;TZ;TZA;CD;COD
+Swahili;1;Tanzania;Kenya;TZ;TZA;KE;KEN
+Swahili;1;Tanzania;Rwanda;TZ;TZA;RW;RWA
+Swahili;1;Tanzania;Tanzania;TZ;TZA;TZ;TZA
+Swahili;1;Tanzania;Uganda;TZ;TZA;UG;UGA
+Swahili;1;Uganda;Democratic Republic of the Congo;UG;UGA;CD;COD
+Swahili;1;Uganda;Kenya;UG;UGA;KE;KEN
+Swahili;1;Uganda;Rwanda;UG;UGA;RW;RWA
+Swahili;1;Uganda;Tanzania;UG;UGA;TZ;TZA
+Swahili;1;Uganda;Uganda;UG;UGA;UG;UGA
+Serbo-Croatian;1;Serbia;Serbia;RS;SRB;RS;SRB
+Serbo-Croatian;1;Serbia;Croatia;RS;SRB;HR;HRV
+Serbo-Croatian;1;Serbia;Bosnia and Herzegovina;RS;SRB;BA;BIH
+Serbo-Croatian;1;Serbia;Montenegro;RS;SRB;ME;MNE
+Serbo-Croatian;1;Serbia;Kosovo;RS;SRB;XK;XXK
+Serbo-Croatian;1;Croatia;Serbia;HR;HRV;RS;SRB
+Serbo-Croatian;1;Croatia;Croatia;HR;HRV;HR;HRV
+Serbo-Croatian;1;Croatia;Bosnia and Herzegovina;HR;HRV;BA;BIH
+Serbo-Croatian;1;Croatia;Montenegro;HR;HRV;ME;MNE
+Serbo-Croatian;1;Croatia;Kosovo;HR;HRV;XK;XXK
+Serbo-Croatian;1;Bosnia and Herzegovina;Serbia;BA;BIH;RS;SRB
+Serbo-Croatian;1;Bosnia and Herzegovina;Croatia;BA;BIH;HR;HRV
+Serbo-Croatian;1;Bosnia and Herzegovina;Bosnia and Herzegovina;BA;BIH;BA;BIH
+Serbo-Croatian;1;Bosnia and Herzegovina;Montenegro;BA;BIH;ME;MNE
+Serbo-Croatian;1;Bosnia and Herzegovina;Kosovo;BA;BIH;XK;XXK
+Serbo-Croatian;1;Montenegro;Serbia;ME;MNE;RS;SRB
+Serbo-Croatian;1;Montenegro;Croatia;ME;MNE;HR;HRV
+Serbo-Croatian;1;Montenegro;Bosnia and Herzegovina;ME;MNE;BA;BIH
+Serbo-Croatian;1;Montenegro;Montenegro;ME;MNE;ME;MNE
+Serbo-Croatian;1;Montenegro;Kosovo;ME;MNE;XK;XXK
+Serbo-Croatian;1;Kosovo;Serbia;XK;XXK;RS;SRB
+Serbo-Croatian;1;Kosovo;Croatia;XK;XXK;HR;HRV
+Serbo-Croatian;1;Kosovo;Bosnia and Herzegovina;XK;XXK;BA;BIH
+Serbo-Croatian;1;Kosovo;Montenegro;XK;XXK;ME;MNE
+Serbo-Croatian;1;Kosovo;Kosovo;XK;XXK;XK;XXK
+Italian;1;Italy;Italy;IT;ITA;IT;ITA
+Italian;1;Italy;Switzerland;IT;ITA;CH;CHE
+Italian;1;Italy;San Marino;IT;ITA;SM;SMR
+Italian;1;Italy;Vatican City;IT;ITA;VA;VAT
+Italian;1;Switzerland;Italy;CH;CHE;IT;ITA
+Italian;1;Switzerland;Switzerland;CH;CHE;CH;CHE
+Italian;1;Switzerland;San Marino;CH;CHE;SM;SMR
+Italian;1;Switzerland;Vatican City;CH;CHE;VA;VAT
+Italian;1;San Marino;Italy;SM;SMR;IT;ITA
+Italian;1;San Marino;Switzerland;SM;SMR;CH;CHE
+Italian;1;San Marino;San Marino;SM;SMR;SM;SMR
+Italian;1;San Marino;Vatican City;SM;SMR;VA;VAT
+Italian;1;Vatican City;Italy;VA;VAT;IT;ITA
+Italian;1;Vatican City;Switzerland;VA;VAT;CH;CHE
+Italian;1;Vatican City;San Marino;VA;VAT;SM;SMR
+Italian;1;Vatican City;Vatican City;VA;VAT;VA;VAT
+Malay;1;Malaysia;Malaysia;MY;MYS;MY;MYS
+Malay;1;Malaysia;Indonesia;MY;MYS;ID;IDN
+Malay;1;Malaysia;Singapore;MY;MYS;SG;SGP
+Malay;1;Malaysia;Brunei;MY;MYS;BN;BRN
+Malay;1;Indonesia;Malaysia;ID;IDN;MY;MYS
+Malay;1;Indonesia;Indonesia;ID;IDN;ID;IDN
+Malay;1;Indonesia;Singapore;ID;IDN;SG;SGP
+Malay;1;Indonesia;Brunei;ID;IDN;BN;BRN
+Malay;1;Singapore;Malaysia;SG;SGP;MY;MYS
+Malay;1;Singapore;Indonesia;SG;SGP;ID;IDN
+Malay;1;Singapore;Singapore;SG;SGP;SG;SGP
+Malay;1;Singapore;Brunei;SG;SGP;BN;BRN
+Malay;1;Brunei;Malaysia;BN;BRN;MY;MYS
+Malay;1;Brunei;Indonesia;BN;BRN;ID;IDN
+Malay;1;Brunei;Singapore;BN;BRN;SG;SGP
+Malay;1;Brunei;Brunei;BN;BRN;BN;BRN
+Dutch;1;Netherlands;Netherlands;NL;NLD;NL;NLD
+Dutch;1;Netherlands;Belgium;NL;NLD;BE;BEL
+Dutch;1;Netherlands;Suriname;NL;NLD;SR;SUR
+Dutch;1;Belgium;Netherlands;BE;BEL;NL;NLD
+Dutch;1;Belgium;Belgium;BE;BEL;BE;BEL
+Dutch;1;Belgium;Suriname;BE;BEL;SR;SUR
+Dutch;1;Suriname;Netherlands;SR;SUR;NL;NLD
+Dutch;1;Suriname;Belgium;SR;SUR;BE;BEL
+Dutch;1;Suriname;Suriname;SR;SUR;SR;SUR
+Persian;1;Iran;Iran;IR;IRN;IR;IRN
+Persian;1;Iran;Afghanistan;IR;IRN;AF;AFG
+Persian;1;Iran;Tajikistan;IR;IRN;TJ;TJK
+Persian;1;Afghanistan;Iran;AF;AFG;IR;IRN
+Persian;1;Afghanistan;Afghanistan;AF;AFG;AF;AFG
+Persian;1;Afghanistan;Tajikistan;AF;AFG;TJ;TJK
+Persian;1;Tajikistan;Iran;TJ;TJK;IR;IRN
+Persian;1;Tajikistan;Afghanistan;TJ;TJK;AF;AFG
+Persian;1;Tajikistan;Tajikistan;TJ;TJK;TJ;TJK
+Sotho;1;South Africa;South Africa;ZA;ZAF;ZA;ZAF
+Sotho;1;South Africa;Lesotho;ZA;ZAF;LS;LSO
+Sotho;1;South Africa;Zimbabwe;ZA;ZAF;ZW;ZWE
+Sotho;1;Lesotho;South Africa;LS;LSO;ZA;ZAF
+Sotho;1;Lesotho;Lesotho;LS;LSO;LS;LSO
+Sotho;1;Lesotho;Zimbabwe;LS;LSO;ZW;ZWE
+Sotho;1;Zimbabwe;South Africa;ZW;ZWE;ZA;ZAF
+Sotho;1;Zimbabwe;Lesotho;ZW;ZWE;LS;LSO
+Sotho;1;Zimbabwe;Zimbabwe;ZW;ZWE;ZW;ZWE
+Tswana;1;Botswana;Botswana;BW;BWA;BW;BWA
+Tswana;1;Botswana;South Africa;BW;BWA;ZA;ZAF
+Tswana;1;Botswana;Zimbabwe;BW;BWA;ZW;ZWE
+Tswana;1;South Africa;Botswana;ZA;ZAF;BW;BWA
+Tswana;1;South Africa;South Africa;ZA;ZAF;ZA;ZAF
+Tswana;1;South Africa;Zimbabwe;ZA;ZAF;ZW;ZWE
+Tswana;1;Zimbabwe;Botswana;ZW;ZWE;BW;BWA
+Tswana;1;Zimbabwe;South Africa;ZW;ZWE;ZA;ZAF
+Tswana;1;Zimbabwe;Zimbabwe;ZW;ZWE;ZW;ZWE
+Albanian;1;Albania;Albania;AL;ALB;AL;ALB
+Albanian;1;Albania;Kosovo;AL;ALB;XK;XXK
+Albanian;1;Albania;North Macedonia;AL;ALB;MK;MKD
+Albanian;1;Kosovo;Albania;XK;XXK;AL;ALB
+Albanian;1;Kosovo;Kosovo;XK;XXK;XK;XXK
+Albanian;1;Kosovo;North Macedonia;XK;XXK;MK;MKD
+Albanian;1;North Macedonia;Albania;MK;MKD;AL;ALB
+Albanian;1;North Macedonia;Kosovo;MK;MKD;XK;XXK
+Albanian;1;North Macedonia;North Macedonia;MK;MKD;MK;MKD
+Mandarin Chinese;1;China;China;CN;CHN;CN;CHN
+Mandarin Chinese;1;China;Singapore;CN;CHN;SG;SGP
+Mandarin Chinese;1;China;Taiwan;CN;CHN;TW;TWN
+Mandarin Chinese;1;Singapore;China;SG;SGP;CN;CHN
+Mandarin Chinese;1;Singapore;Singapore;SG;SGP;SG;SGP
+Mandarin Chinese;1;Singapore;Taiwan;SG;SGP;TW;TWN
+Mandarin Chinese;1;Taiwan;China;TW;TWN;CN;CHN
+Mandarin Chinese;1;Taiwan;Singapore;TW;TWN;SG;SGP
+Mandarin Chinese;1;Taiwan;Taiwan;TW;TWN;TW;TWN
+Romanian;1;Romania;Romania;RO;ROU;RO;ROU
+Romanian;1;Romania;Moldova;RO;ROU;MD;MDA
+Romanian;1;Romania;Transnistria;RO;ROU;MD;MDA
+Romanian;1;Moldova;Romania;MD;MDA;RO;ROU
+Romanian;1;Moldova;Moldova;MD;MDA;MD;MDA
+Romanian;1;Moldova;Transnistria;MD;MDA;MD;MDA
+Romanian;1;Transnistria;Romania;MD;MDA;RO;ROU
+Romanian;1;Transnistria;Moldova;MD;MDA;MD;MDA
+Romanian;1;Transnistria;Transnistria;MD;MDA;MD;MDA
+Turkish;1;Turkey;Turkey;TR;TUR;TR;TUR
+Turkish;1;Turkey;Northern Cyprus;TR;TUR;CY;CYP
+Turkish;1;Turkey;Cyprus;TR;TUR;CY;CYP
+Turkish;1;Northern Cyprus;Turkey;CY;CYP;TR;TUR
+Turkish;1;Northern Cyprus;Northern Cyprus;CY;CYP;CY;CYP
+Turkish;1;Northern Cyprus;Cyprus;CY;CYP;CY;CYP
+Turkish;1;Cyprus;Turkey;CY;CYP;TR;TUR
+Turkish;1;Cyprus;Northern Cyprus;CY;CYP;CY;CYP
+Turkish;1;Cyprus;Cyprus;CY;CYP;CY;CYP
+Aymara;1;Bolivia;Bolivia;BO;BOL;BO;BOL
+Aymara;1;Bolivia;Peru;BO;BOL;PE;PER
+Aymara;1;Peru;Bolivia;PE;PER;BO;BOL
+Aymara;1;Peru;Peru;PE;PER;PE;PER
+Berber;1;Algeria;Algeria;DZ;DZA;DZ;DZA
+Berber;1;Algeria;Morocco;DZ;DZA;MA;MAR
+Berber;1;Morocco;Algeria;MA;MAR;DZ;DZA
+Berber;1;Morocco;Morocco;MA;MAR;MA;MAR
+Chichewa;1;Malawi;Malawi;MW;MWI;MW;MWI
+Chichewa;1;Malawi;Zimbabwe;MW;MWI;ZW;ZWE
+Chichewa;1;Zimbabwe;Malawi;ZW;ZWE;MW;MWI
+Chichewa;1;Zimbabwe;Zimbabwe;ZW;ZWE;ZW;ZWE
+Greek;1;Greece;Greece;GR;GRC;GR;GRC
+Greek;1;Greece;Cyprus;GR;GRC;CY;CYP
+Greek;1;Cyprus;Greece;CY;CYP;GR;GRC
+Greek;1;Cyprus;Cyprus;CY;CYP;CY;CYP
+Guarani;1;Paraguay;Paraguay;PY;PRY;PY;PRY
+Guarani;1;Paraguay;Bolivia;PY;PRY;BO;BOL
+Guarani;1;Bolivia;Paraguay;BO;BOL;PY;PRY
+Guarani;1;Bolivia;Bolivia;BO;BOL;BO;BOL
+Hindi–Urdu;1;India;India;IN;IND;IN;IND
+Hindi–Urdu;1;India;Pakistan;IN;IND;PK;PAK
+Hindi–Urdu;1;Pakistan;India;PK;PAK;IN;IND
+Hindi–Urdu;1;Pakistan;Pakistan;PK;PAK;PK;PAK
+Korean;1;North Korea;North Korea;KP;PRK;KP;PRK
+Korean;1;North Korea;South Korea;KP;PRK;KR;KOR
+Korean;1;South Korea;North Korea;KR;KOR;KP;PRK
+Korean;1;South Korea;South Korea;KR;KOR;KR;KOR
+Quechua;1;Bolivia;Bolivia;BO;BOL;BO;BOL
+Quechua;1;Bolivia;Peru;BO;BOL;PE;PER
+Quechua;1;Peru;Bolivia;PE;PER;BO;BOL
+Quechua;1;Peru;Peru;PE;PER;PE;PER
+Rwanda-Rundi;1;Burundi;Burundi;BI;BDI;BI;BDI
+Rwanda-Rundi;1;Burundi;Rwanda;BI;BDI;RW;RWA
+Rwanda-Rundi;1;Rwanda;Burundi;RW;RWA;BI;BDI
+Rwanda-Rundi;1;Rwanda;Rwanda;RW;RWA;RW;RWA
+Swati;1;Eswatini;Eswatini;SZ;SWZ;SZ;SWZ
+Swati;1;Eswatini;South Africa;SZ;SWZ;ZA;ZAF
+Swati;1;South Africa;Eswatini;ZA;ZAF;SZ;SWZ
+Swati;1;South Africa;South Africa;ZA;ZAF;ZA;ZAF
+Swedish;1;Sweden;Sweden;SE;SWE;SE;SWE
+Swedish;1;Sweden;Finland;SE;SWE;FI;FIN
+Swedish;1;Finland;Sweden;FI;FIN;SE;SWE
+Swedish;1;Finland;Finland;FI;FIN;FI;FIN
+Tamil;1;Sri Lanka;Sri Lanka;LK;LKA;LK;LKA
+Tamil;1;Sri Lanka;Singapore;LK;LKA;SG;SGP
+Tamil;1;Singapore;Sri Lanka;SG;SGP;LK;LKA
+Tamil;1;Singapore;Singapore;SG;SGP;SG;SGP
+Tigrinya;1;Eritrea;Eritrea;ER;ERI;ER;ERI
+Tigrinya;1;Eritrea;Ethiopia;ER;ERI;ET;ETH
+Tigrinya;1;Ethiopia;Eritrea;ET;ETH;ER;ERI
+Tigrinya;1;Ethiopia;Ethiopia;ET;ETH;ET;ETH
+Venda;1;South Africa;South Africa;ZA;ZAF;ZA;ZAF
+Venda;1;South Africa;Zimbabwe;ZA;ZAF;ZW;ZWE
+Venda;1;Zimbabwe;South Africa;ZW;ZWE;ZA;ZAF
+Venda;1;Zimbabwe;Zimbabwe;ZW;ZWE;ZW;ZWE
+Xhosa;1;South Africa;South Africa;ZA;ZAF;ZA;ZAF
+Xhosa;1;South Africa;Zimbabwe;ZA;ZAF;ZW;ZWE
+Xhosa;1;Zimbabwe;South Africa;ZW;ZWE;ZA;ZAF
+Xhosa;1;Zimbabwe;Zimbabwe;ZW;ZWE;ZW;ZWE
+Armenian;1;Armenia;Armenia;AM;ARM;AM;ARM
+Armenian;1;Armenia;Nagorno Karabakh;AM;ARM;AZ;AZE
+Armenian;1;Nagorno Karabakh;Armenia;AZ;AZE;AM;ARM
+Armenian;1;Nagorno Karabakh;Nagorno Karabakh;AZ;AZE;AZ;AZE
+Somali;1;Somalia;Somalia;SO;SOM;SO;SOM
+Somali;1;Somalia;Somaliland;SO;SOM;SO;SOM
+Somali;1;Somaliland;Somalia;SO;SOM;SO;SOM
+Somali;1;Somaliland;Somaliland;SO;SOM;SO;SOM
